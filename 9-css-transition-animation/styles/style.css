@@ -1,0 +1,35 @@
+main > div {
+    width: 100px;
+    height: 100px;
+    margin: 10px;   
+}
+
+
+#rouge {
+    background-color: red;
+}
+
+#bleu {
+    background-color: blue;
+}
+
+#green {
+    opacity: 0;
+    background-color: green;
+    animation: 6s linear 0s infinite appear;
+}
+
+
+main:hover > #rouge  {
+    width: 300px;
+
+}
+
+main:hover > #bleu  {
+    width: 200px;
+
+}
+
+@keyframes appear {
+
+}
