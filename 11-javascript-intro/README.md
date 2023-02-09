@@ -10,10 +10,10 @@
 
 	>Entre le 2 mars 1997 et le 7 février 2023, il s'est écoulé 9473 jours.
 
-5. (Défis!) Une fonction qui reverse les mots dans une phrase, mais garde la ponctuation.
+5. **Défis!** Une fonction qui reverse les mots dans une phrase, mais garde la ponctuation.
 
 	>Bonjour, ça va! -> ruojnoB, aç av!
 	
-6. Programmer les classes du diagramme suivant.
+6. Programmez les classes du diagramme suivant.
 
 ![](docs/UMLClasse.png)
