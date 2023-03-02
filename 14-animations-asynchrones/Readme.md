@@ -10,6 +10,8 @@ La fonction `animate()`retourne un objet `Animation` regardez comment utiliser l
 
 Vous devez implémenter l'animation complète de 3 façons différentes:
 
-1. Implémentez une version qui fonctionne en utilisant les callback()
-2. Implémentez une version qui utilise une chaine de promesses
 3. Implémentez une version qui utilise `async` et `await`
+2. Implémentez une version qui utilise une chaine de promesses
+1. Implémentez une version qui utilise les promesse et les callback()
+
+[Autre exemple d'animation en chaîne](https://codepen.io/osublake/pen/dvdoze)
